@@ -1,0 +1,35 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f9;
+  color: #333;
+}
+
+/* Header and footer */
+header, footer {
+  background-color:blanchedalmond;
+  color:black;
+  text-align: center;
+  padding: 15px;
+}
+
+/* Main content area */
+main {
+  padding: 20px;
+}
+
+.content-box {
+  background: white;
+  border: 2px solid blueviolet;
+  padding: 15px;   
+  margin: 15px 0; 
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Lists */
+ul {
+  padding-left: 20px;
+}
